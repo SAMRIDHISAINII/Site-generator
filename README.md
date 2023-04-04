@@ -1,6 +1,4 @@
-## Streamlit-Site-Generator
-
-Click [here](https://site-generator.streamlit.app/) to try it out. There is also an article explaining the code [here](https://itnext.io/i-built-a-streamlit-app-to-generate-websites-in-seconds-try-it-6cf13eb86192?sk=a0d357d4aa1831d72ad0c7ef21f832fe).
+## Site-Generator
 
 #### Setup
 
